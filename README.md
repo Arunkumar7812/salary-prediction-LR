@@ -1,6 +1,6 @@
 ## Salary Prediction using Simple Linear Regression (SLR)
 
-## APP:
+## APP:https://salary-prediction-lr-2abukh4sadgjkapwdlbxwj.streamlit.app/
 ### 📋 Project Overview
 
 This repository contains a Jupyter Notebook that implements Simple Linear Regression (SLR) to model the relationship between an employee's Years of Experience and their Salary.
