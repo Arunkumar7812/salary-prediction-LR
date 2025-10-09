@@ -97,6 +97,7 @@ The increase in Salary for every one-unit increase in Years of Experience. This 
 Indicates the statistical significance of the predictor. A value much lower than 0.05 suggests a strong relationship.
 ##### F-statistic:
 Tests the overall significance of the model.
+<img width="880" height="465" alt="image" src="https://github.com/user-attachments/assets/25e633c5-5f5e-48c1-9910-45fc1c1f820a" />
 
 
 
